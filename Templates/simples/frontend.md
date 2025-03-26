@@ -16,6 +16,14 @@
 </p>
 
 
+<h2 id="technologies">💻 Tecnologias</h2>
+
+- lista de todas as tecnologias que você usou.
+- react
+- styled components
+- outro exemplo
+
+
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
@@ -24,17 +32,9 @@
 </p>
 
 
-<h2 id="technologies">💻 Tecnologias</h2>
-
-- lista de todas as tecnologias que você usou
-- react
-- styled components
-- outro exemplo
-
-
 <h2 id="started">🚀 Começando</h2>
 
-Aqui você descreve como executar seu projeto localmente
+Aqui você descreve como executar seu projeto localmente.
 
 
 ### Pré-requisitos
@@ -120,3 +120,8 @@ Aqui você explicará como outros desenvolvedores podem contribuir para o seu pr
 [📝 Como criar um Pull Request](https://www.atlassian.com/br/git/tutorials/making-a-pull-request)
 
 [💾 Padrão de commits](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
+
+
+## 📜 Licença
+
+Este projeto está sob a licença [MIT](../../LICENSE) License.

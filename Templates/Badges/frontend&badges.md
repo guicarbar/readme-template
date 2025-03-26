@@ -3,33 +3,50 @@
 <p align="center">
  <a href="#tech">Tecnologias</a> •
  <a href="#started">Começando</a> •
- <a href="#routes">Endpoints da API</a> •
  <a href="#colab">Colaboradores</a> •
  <a href="#contribute">Contribuir</a>
-</p>
+</p> 
 
 <p align="center"> 
- <b>Descrição simples do que seu projeto faz ou como usá-lo.</b>
+ <b>Descrição simples do que seu projeto faz ou como usá-lo</b>
+</p>
+
+<p align="center">
+ <a href="url-do-projeto">📱 Visite este projeto</a>
 </p>
 
 
 <h2 id="technologies">💻 Tecnologias</h2>
 
-- Lista completa de todas as tecnologias usadas.
-- Python
-- Pandas
-- SQL
-- jupyter
+- lista de todas as tecnologias que você usou com badges
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+
+<h2 id="layout">🎨 Layout</h2>
+
+<p align="center">
+ <img src="../../img/Imagem-de-exemplo.png" alt="Exemplo de imagem" width="400px">
+ <img src="../../img/Imagem-de-exemplo.png" alt="Exemplo de imagem" width="400px">
+</p>
 
 
 <h2 id="started">🚀 Começando</h2>
 
-Aqui você descreve como executar seu projeto localmente.
+Aqui você descreve como executar seu projeto localmente
 
 
 ### Pré-requisitos
 
 Aqui você lista todos os pré-requisitos necessários para rodar seu projeto. Por exemplo:
+
 - [NodeJS](https://nodejs.org/pt)
 - [java 8](https://www.java.com/pt-BR/)
 
@@ -42,18 +59,6 @@ Como clonar seu projeto:
 git clone url-do-seu-projeto-no-github
 ```
 
-
-### Config .env variables
-
-Exemplo de arquivo `.env.example` com suas credencias para ser usado no `.env`.
-
-```yaml
-NODE_AWS_REGION=sua-regiao
-NODE_AWS_KEY_ID={seu-id-aws}
-NODE_AWS_SECRET={sua-senha-aws}
-```
-
-
 ### Iniciando
 
 Como iniciar seu projeto:
@@ -61,46 +66,6 @@ Como iniciar seu projeto:
 ```bash
 cd nome-do-projeto
 npm comando-para-executar
-```
-
-<h2 id="routes">📍 Endpoints da API</h2>
-
-Aqui você pode listar as principais rotas da sua API e quais são os corpos de requisição esperados.
-​
-| route               | description                                          
-|----------------------|-----------------------------------------------------
-| <kbd>GET /authenticate</kbd>     | Recupera informações do usuário. <a href="#get-auth-detail">Veja mais!</a>
-| <kbd>POST /authenticate</kbd>     | Autentica o usuário na API. <a href="#post-auth-detail">Veja mais!</a>
-
-
-<h3 id="get-auth-detail">GET /authenticate</h3>
-
-**RESPOSTA**
-```json
-{
-  "nome": "Guilherme Carvalho Barbosa",
-  "idade": 24,
-  "email": "meu-email@gmail.com"
-}
-```
-
-
-<h3 id="post-auth-detail">POST /authenticate</h3>
-
-**REQUISIÇÃO**
-```json
-{
-  "usuario": "GuiCarBar",
-  "senha": "1234567"
-}
-```
-
-
-**RESPOSTA**
-```json
-{
-  "token": "OwoMRHsaQwyAgVoc3OXmL1JhMVUYXGGBbCTK0GBgiYitwQwjf0gVoBmkbuyy0pSi"
-}
 ```
 
 
