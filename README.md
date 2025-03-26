@@ -9,8 +9,8 @@
 
 Aqui você encontrará diversos exemplos prontos para usar e adaptar ao seu projeto.
 
-[Backend Simples](Templates/simples/backend.md)
-[Frontend Simples](Templates/simples/frontend.md)
+- [Backend](Templates/simples/backend.md) && [with Badges](Templates/simples/backend.md)
+- [Frontend](Templates/simples/frontend.md) && [with Badges](Templates/simples/frontend.md)
 
 
 ## 🚀 Contribua
