@@ -1,5 +1,6 @@
-<img src="img/Brand-ReadmeTemplate.png" width="320px" align="center">
-
+<p align="center">
+ <img src="img/Brand-ReadmeTemplate.png" width="320px">
+</p>
 
 > Este repositório funciona como um guia com vários templates para criar um README incrível para seus projetos em Markdown.
 
@@ -9,6 +10,8 @@
 Aqui você encontrará diversos exemplos prontos para usar e adaptar ao seu projeto.
 
 [Backend Simples](Templates/simples/backend.md)
+[Frontend Simples](Templates/simples/frontend.md)
+
 
 ## 🚀 Contribua
 
