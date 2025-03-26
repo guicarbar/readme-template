@@ -1,4 +1,4 @@
-<img src="img/Brand-ReadmeTemplate.png">
+<img src="img/Brand-ReadmeTemplate.png" width="400px">
 
 
 > Este repositório funciona como um guia com vários templates para criar um README incrível para seus projetos em Markdown.
@@ -16,10 +16,15 @@ Se deseja contribuir com este repositório, siga estes passos:
 1. 🔹 Clone este repositório.
 
 ```
-git clone 
+git clone https://github.com/guicarbar/readme-template.git
 ```
 
 2. 🔹 Crie uma nova branch.
+
+```
+git checkout -b feature/BRANCH_NAME
+```
+
 3. 🔹 Desenvolva suas versões e melhorias!
 
 No final, envie um pull request apresentando sua ideia para novas versões, modificações ou correções de erros. Aguarde minha resposta!
