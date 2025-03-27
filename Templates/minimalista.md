@@ -31,7 +31,7 @@
 
 ## Contribuir
 
-1. **Clonar projeto:**: `git clone git clone https://github.com/Seu-Usuario/Nome-so-seu-Projeto.git`
+1. **Clonar projeto:**: `git clone https://github.com/Seu-Usuario/Nome-so-seu-Projeto.git`
 2. **Criar feature/branch:**: `git checkout -b feature/Nome-da-branch`
 
 
