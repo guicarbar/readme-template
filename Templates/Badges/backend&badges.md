@@ -4,6 +4,7 @@
  <a href="#tech">Tecnologias</a> •
  <a href="#started">Começando</a> •
  <a href="#routes">Endpoints da API</a> •
+ <a href="#structure">Estrurtura do projeto</a> •
  <a href="#colab">Colaboradores</a> •
  <a href="#contribute">Contribuir</a>
 </p>
@@ -110,6 +111,22 @@ Aqui você pode listar as principais rotas da sua API e quais são os corpos de 
 ```
 
 
+<h2 id="structure">📂 Estrutura do Projeto</h2>
+
+- Aqui voce vai colocar a estrutura do projeto com seus arquivos ...
+
+```bash
+📦 NomeDoProjeto
+├── 📁 src
+│   ├── 📄 index.js
+│   ├── 📄 app.js
+│   └── 📄 config.js
+├── 📄 README.md
+├── 📄 package.json
+└── 📄 .gitignore
+```
+
+
 <h2 id="colab">🤝 Colaboradores</h2>
 
 Um agradecimento especial a todas as pessoas que contribuíram para este projeto.
@@ -167,6 +184,11 @@ Aqui você explicará como outros desenvolvedores podem contribuir para o seu pr
 [📝 Como criar um Pull Request](https://www.atlassian.com/br/git/tutorials/making-a-pull-request)
 
 [💾 Padrão de commits](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
+
+
+## ✨ Créditos e Inspiração 
+
+Se você se inspirou ou se baseou em outro projeto, este é um ótimo espaço para mencionar e dar os devidos créditos.
 
 
 ## 📜 Licença

@@ -5,7 +5,8 @@
 
 # Nome do Projeto
 
-Uma breve descrição sobre o projeto...
+> Uma breve descrição sobre o projeto...
+
 
 ## Tecnologias
 
@@ -24,14 +25,19 @@ Uma breve descrição sobre o projeto...
 1. Instalar dependências: `npm install ou yarn`
 2. Criar containers: `docker-compose up -d`
 3. Variáveis de ambiente: `Copie .env.example para um novo .env.local`
-4. Configuração do banco de dados: `npx prisma migrate dev --name init`
-5. Iniciar desenvolvimento: n`pm run start:dev (api) & npm run dev (frontend)`
+4. Configuração do banco de dados: `npx prisma migrate dev --nome init`
+5. Iniciar desenvolvimento: `npm run start:dev (api) & npm run dev (frontend)`
 
 
 ## Contribuir
 
 1. **Clonar projeto:**: `git clone git clone https://github.com/Seu-Usuario/Nome-so-seu-Projeto.git`
 2. **Criar feature/branch:**: `git checkout -b feature/Nome-da-branch`
+
+
+## Créditos e Inspiração 
+
+Se você se inspirou ou se baseou em outro projeto, este é um ótimo espaço para mencionar e dar os devidos créditos.
 
 
 ## Licença
