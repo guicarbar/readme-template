@@ -16,8 +16,6 @@ Aqui você encontrará diversos exemplos prontos para usar e adaptar ao seu proj
 
 ## Recursos para Aprimorar sua Documentação
 
-### Badges
-
 - [Badges Markdown](https://github.com/Ileriayo/markdown-badges)
 - [Badges da DIO](https://github.com/digitalinnovationone/dio-lab-open-source)
 - [Badges customizadas](https://github.com/Aveek-Saha/GitHub-Profile-Badges?tab=readme-ov-file)
