@@ -50,6 +50,11 @@ No final, envie um pull request apresentando sua ideia para novas versões, modi
 Este projeto foi inspirado no trabalho de [Fernanda Kipper](https://github.com/Fernanda-Kipper/Readme-Templates). A base do projeto foi traduzida e adaptada, incluindo modificações e personalizações para refletir minha própria versão.
 
 
+## 📝 Observações
+
+Lembre-se de que todos os templates são apenas modelos de referência. Dependendo do seu projeto, ideia ou preferência, você pode facilmente remover ou adicionar trechos conforme necessário.
+
+
 ## 📜 Licença
 
 Este projeto está sob a licença [MIT](LICENSE) License.
