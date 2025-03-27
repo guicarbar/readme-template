@@ -142,7 +142,7 @@ Aqui você explicará como outros desenvolvedores podem contribuir para o seu pr
 
 [📝 Como criar um Pull Request](https://www.atlassian.com/br/git/tutorials/making-a-pull-request)
 
-[💾 Padrão de commits](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
+[💾 Padrão de commits](https://github.com/iuricode/padroes-de-commits)
 
 
 ## ✨ Créditos e Inspiração 
